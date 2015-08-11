@@ -1,0 +1,10 @@
+this is a maven project
+mvn install will create target/mywebapp.war
+
+drop that in your webcontainer and restart it
+
+endpoint is /mywebapp/endpoint
+
+linux test client using curl is included called c.sh
+this is uses text file also included called body.json
+ 
